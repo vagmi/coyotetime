@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/mainlev_build.png-cb9110b344ba395cc433b79b4ca9fe9b.stex"
+path="res://.import/mainlev_build.png-e007ae1c49db2cb57cc2fa98a625807e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mainlev_build.png"
-dest_files=[ "res://.import/mainlev_build.png-cb9110b344ba395cc433b79b4ca9fe9b.stex" ]
+source_file="res://assets/mainlev_build.png"
+dest_files=[ "res://.import/mainlev_build.png-e007ae1c49db2cb57cc2fa98a625807e.stex" ]
 
 [params]
 
